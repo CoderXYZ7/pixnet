@@ -1,0 +1,13 @@
+# PIXNET Client Requirements
+# Python 3.6+ required
+
+# Image processing for PIXNET frame display
+Pillow>=9.0.0
+
+# Optional: Enhanced networking (if using asyncio version)
+# asyncio-dgram>=2.1.0  # For QUIC support (future)
+
+# Development dependencies (optional)
+# pytest>=7.0.0         # For testing
+# black>=22.0.0         # Code formatting
+# flake8>=4.0.0         # Linting
